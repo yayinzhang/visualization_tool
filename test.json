@@ -1,0 +1,708 @@
+{
+  "summary": "Nike與Adidas在2024年的市場分析顯示出幾個關鍵趨勢。首先，Nike在多數運動類別中的市場佔比低於Adidas，尤其是在棒球、足球和生活方式類別中，Adidas表現更佳。其次，Nike的市場定位針對年輕和運動型消費者，尤其在運動訓練和健身類別中具有影響力。\n\n在功能性服裝方面，Adidas在環保產品的市場佔比達47.75%，而Nike為25.77%，顯示出Adidas在可持續發展上的領先地位。反之，Nike在保暖和透氣技術上表現優於Adidas，顯示其產品在舒適性和性能方面的競爭力。\n\n在材料使用上，Nike更積極採用可持續材料，包括100%棉和回收聚酯等，這滿足了消費者對環保產品日益增長的需求。\n\n綜合來看，Nike應加強在生活方式和團隊運動類別的發展，同時保持在運動性能和技術創新上的優勢，而Adidas則需繼續強化其環保品牌形象。",
+  "output": [
+    {
+      "output": {
+        "chart_type": "percentage_stacked_bar_xsubgroup",
+        "title": "nike, adidas 2024年多品牌運動百分比堆疊長條圖",
+        "x": [
+          "adidas",
+          "nike"
+        ],
+        "stack_series": [
+          {
+            "label": "Baseball",
+            "values": [
+              0.85,
+              17.96
+            ]
+          },
+          {
+            "label": "Basketball",
+            "values": [
+              3.66,
+              6.78
+            ]
+          },
+          {
+            "label": "Boxing",
+            "values": [
+              0.25,
+              0
+            ]
+          },
+          {
+            "label": "Climbing",
+            "values": [
+              0.6,
+              0.22
+            ]
+          },
+          {
+            "label": "Combat/MMA",
+            "values": [
+              0.03,
+              0.03
+            ]
+          },
+          {
+            "label": "Cycling/Biking",
+            "values": [
+              0.51,
+              0
+            ]
+          },
+          {
+            "label": "Dance",
+            "values": [
+              1.05,
+              0.83
+            ]
+          },
+          {
+            "label": "Diving",
+            "values": [
+              0.01,
+              0.05
+            ]
+          },
+          {
+            "label": "Field Hockey",
+            "values": [
+              0.73,
+              0
+            ]
+          },
+          {
+            "label": "Fishing",
+            "values": [
+              0,
+              0.03
+            ]
+          },
+          {
+            "label": "Football/Soccer",
+            "values": [
+              11.05,
+              15.95
+            ]
+          },
+          {
+            "label": "Golf",
+            "values": [
+              6.45,
+              2.5
+            ]
+          },
+          {
+            "label": "Hiking & Trail",
+            "values": [
+              2.52,
+              2.38
+            ]
+          },
+          {
+            "label": "Lacrosse",
+            "values": [
+              0,
+              0.33
+            ]
+          },
+          {
+            "label": "Lifestyle",
+            "values": [
+              41.61,
+              31.26
+            ]
+          },
+          {
+            "label": "Military & Tactical",
+            "values": [
+              0.11,
+              0.1
+            ]
+          },
+          {
+            "label": "Others",
+            "values": [
+              0.01,
+              0.04
+            ]
+          },
+          {
+            "label": "Rugby",
+            "values": [
+              0.22,
+              0.03
+            ]
+          },
+          {
+            "label": "Running",
+            "values": [
+              8.09,
+              4.13
+            ]
+          },
+          {
+            "label": "Skate/Skateboarding",
+            "values": [
+              1.25,
+              0.68
+            ]
+          },
+          {
+            "label": "Ski & Snowboard",
+            "values": [
+              0.75,
+              0.08
+            ]
+          },
+          {
+            "label": "Softball",
+            "values": [
+              0.81,
+              0.22
+            ]
+          },
+          {
+            "label": "Surfing",
+            "values": [
+              0.11,
+              0.12
+            ]
+          },
+          {
+            "label": "Swim",
+            "values": [
+              0.74,
+              1.1
+            ]
+          },
+          {
+            "label": "Tennis",
+            "values": [
+              1.6,
+              2.15
+            ]
+          },
+          {
+            "label": "Training & Gym",
+            "values": [
+              13.23,
+              8.69
+            ]
+          },
+          {
+            "label": "Travel",
+            "values": [
+              0.68,
+              0.32
+            ]
+          },
+          {
+            "label": "Volleyball",
+            "values": [
+              0.77,
+              0.1
+            ]
+          },
+          {
+            "label": "Walking",
+            "values": [
+              0.07,
+              2.43
+            ]
+          },
+          {
+            "label": "Yoga",
+            "values": [
+              2.25,
+              1.5
+            ]
+          }
+        ],
+        "xlabel": "百分比",
+        "ylabel": "品牌"
+      },
+      "llm_output": "在這組數據中，顯示了2024年Nike與Adidas在各運動類別的市場佔比。從數據中可以觀察到幾個關鍵趨勢：\n\n1. **運動類別的佔比**：Nike在大多數類別的佔比明顯低於Adidas，特別是在棒球、足球、和生活方式等領域，這些都是Adidas的強項。例如，在足球類別中，Adidas的佔比為15.95%，而Nike僅為11.05%。在生活方式類別中，Adidas也佔據了41.61%的市場，而Nike僅為31.26%。\n\n2. **受歡迎的運動類別**：從整體數據來看，最受歡迎的運動類別是生活方式、訓練與健身，以及足球。這些類別的受歡迎程度可以反映出消費者對品牌形象和產品設計的偏好。\n\n3. **價格與市場定位**：Nike的市場定位似乎更傾向於年輕和運動型的消費者，尤其是在運動訓練和健身類別中，其佔比達到8.69%，顯示出Nike在這些活躍的運動人群中的影響力。\n\n4. **顏色和風格偏好**：雖然數據中沒有直接顯示顏色和風格偏好，但可以推測Nike可能會在新產品設計上強調創新和活力，符合其年輕化的品牌形象。\n\n總結來說，Nike在2024年的市場表現顯示出其在特定運動類別的強勁競爭力，但在整體市場佔比上仍需加強與Adidas的競爭。未來的策略可以考慮加強在生活方式和團隊運動類別的產品開發，以提高市場佔有率。"
+    },
+    {
+      "output": {
+        "chart_type": "percentage_stacked_bar_xsubgroup",
+        "title": "nike, adidas 2024年多品牌機能百分比堆疊長條圖",
+        "x": [
+          "adidas",
+          "nike"
+        ],
+        "stack_series": [
+          {
+            "label": "Athleisure",
+            "values": [
+              0.07,
+              0
+            ]
+          },
+          {
+            "label": "Remade",
+            "values": [
+              0.07,
+              0.02
+            ]
+          },
+          {
+            "label": "一體成型",
+            "values": [
+              0.33,
+              0.24
+            ]
+          },
+          {
+            "label": "人體生理舒適設計",
+            "values": [
+              0.13,
+              0.09
+            ]
+          },
+          {
+            "label": "保暖禦寒",
+            "values": [
+              4.15,
+              4.73
+            ]
+          },
+          {
+            "label": "刷毛布保暖",
+            "values": [
+              4.77,
+              6.4
+            ]
+          },
+          {
+            "label": "化纖素材保暖",
+            "values": [
+              0.37,
+              0.23
+            ]
+          },
+          {
+            "label": "反光功能",
+            "values": [
+              2.98,
+              1.3
+            ]
+          },
+          {
+            "label": "反射保溫機制",
+            "values": [
+              0.02,
+              0
+            ]
+          },
+          {
+            "label": "單向導溼快乾",
+            "values": [
+              14.8,
+              19.79
+            ]
+          },
+          {
+            "label": "四面彈",
+            "values": [
+              1.28,
+              1.14
+            ]
+          },
+          {
+            "label": "抗紫外線",
+            "values": [
+              0.73,
+              0.98
+            ]
+          },
+          {
+            "label": "抗菌功能",
+            "values": [
+              0.1,
+              0
+            ]
+          },
+          {
+            "label": "提升運動效能設計",
+            "values": [
+              0.74,
+              0.05
+            ]
+          },
+          {
+            "label": "撥水",
+            "values": [
+              1.86,
+              1.26
+            ]
+          },
+          {
+            "label": "涼感",
+            "values": [
+              0.43,
+              0.24
+            ]
+          },
+          {
+            "label": "溫度調節",
+            "values": [
+              0.04,
+              0
+            ]
+          },
+          {
+            "label": "溼度管理",
+            "values": [
+              0.07,
+              1.52
+            ]
+          },
+          {
+            "label": "無氟添加",
+            "values": [
+              0.81,
+              0
+            ]
+          },
+          {
+            "label": "環保訴求",
+            "values": [
+              47.75,
+              25.77
+            ]
+          },
+          {
+            "label": "異味控制",
+            "values": [
+              0.38,
+              0.04
+            ]
+          },
+          {
+            "label": "結構性透氣",
+            "values": [
+              7.79,
+              8.35
+            ]
+          },
+          {
+            "label": "羽絨保暖",
+            "values": [
+              0.03,
+              0.03
+            ]
+          },
+          {
+            "label": "耐磨功能",
+            "values": [
+              0.17,
+              0.03
+            ]
+          },
+          {
+            "label": "肌肉支持",
+            "values": [
+              0.67,
+              0
+            ]
+          },
+          {
+            "label": "舒適伸展",
+            "values": [
+              3.22,
+              0.37
+            ]
+          },
+          {
+            "label": "舒適平滑縫合",
+            "values": [
+              0.04,
+              0.23
+            ]
+          },
+          {
+            "label": "蒸發性散熱",
+            "values": [
+              0.73,
+              15.96
+            ]
+          },
+          {
+            "label": "超輕量",
+            "values": [
+              0.15,
+              0.07
+            ]
+          },
+          {
+            "label": "透氣散熱",
+            "values": [
+              3.86,
+              10.5
+            ]
+          },
+          {
+            "label": "透濕",
+            "values": [
+              0.14,
+              0.06
+            ]
+          },
+          {
+            "label": "防水",
+            "values": [
+              0.75,
+              0.36
+            ]
+          },
+          {
+            "label": "防風機能",
+            "values": [
+              0.57,
+              0.2
+            ]
+          },
+          {
+            "label": "雙面彈",
+            "values": [
+              0,
+              0.06
+            ]
+          }
+        ],
+        "xlabel": "百分比",
+        "ylabel": "品牌"
+      },
+      "llm_output": "在這組數據中，Nike和Adidas在2024年的多品牌功能性服裝市場呈現出明顯的差異。根據堆疊長條圖的數據分析，我們可以得出以下幾個關鍵趨勢和模式：\n\n1. **環保訴求**：Adidas在環保訴求上顯著領先，佔比達47.75%，而Nike僅有25.77%。這表明Adidas在可持續發展和生態友好產品方面的市場定位更為強調，這對環保意識日益增強的消費者來說可能具有吸引力。\n\n2. **保暖功能**：在保暖功能方面，Nike的數據略高於Adidas，尤其是在「刷毛布保暖」和「保暖禦寒」上，分別為6.4%和4.73%。這可能表明Nike的產品在寒冷氣候下的舒適性和功能性上更具競爭力，適合追求戶外活動的消費者。\n\n3. **透氣和快乾技術**：Nike在「單向導溼快乾」和「透氣散熱」的表現上也優於Adidas，分別為19.79%和10.5%。這顯示出Nike強調在運動過程中舒適度和性能的設計，適合積極運動的消費者需求。\n\n4. **功能性設計**：Nike在「蒸發性散熱」方面的佔比達到15.96%，顯示出其對於運動過程中體溫管理的重視。而Adidas在此項目上幾乎沒有數據，這可能影響其在某些運動類型中的市場競爭力。\n\n總結來看，Nike在功能性設計和運動性能方面的強調，適合尋求高性能運動服裝的消費者。而Adidas則在環保和可持續性方面建立了更強的品牌形象，可能更吸引環保意識較強的消費者。這些數據顯示出2024年Nike的市場定位將會繼續聚焦在技術創新和運動性能上，而Adidas則可能在環保和社會責任方面深化其品牌價值。"
+    },
+    {
+      "output": {
+        "chart_type": "percentage_stacked_bar_xsubgroup",
+        "title": "nike, adidas 2024年多品牌機能百分比堆疊長條圖",
+        "x": [
+          "adidas",
+          "nike"
+        ],
+        "stack_series": [
+          {
+            "label": "(no specified%) Spandex",
+            "values": [
+              0.48,
+              0.25
+            ]
+          },
+          {
+            "label": "100% Acrylic",
+            "values": [
+              0.01,
+              0.74
+            ]
+          },
+          {
+            "label": "100% Cotton",
+            "values": [
+              4.96,
+              9.76
+            ]
+          },
+          {
+            "label": "100% Nylon (Polyamide)",
+            "values": [
+              1.79,
+              0.89
+            ]
+          },
+          {
+            "label": "100% Organic Cotton",
+            "values": [
+              0.1,
+              0.22
+            ]
+          },
+          {
+            "label": "100% Polyester",
+            "values": [
+              8.01,
+              12.97
+            ]
+          },
+          {
+            "label": "100% Recycled Nylon (Polyamide)",
+            "values": [
+              0.2,
+              0.15
+            ]
+          },
+          {
+            "label": "100% Recycled Polyester",
+            "values": [
+              3.61,
+              2.38
+            ]
+          },
+          {
+            "label": "100% Wool",
+            "values": [
+              0.05,
+              0.03
+            ]
+          },
+          {
+            "label": "Bast Blend",
+            "values": [
+              0.01,
+              0.06
+            ]
+          },
+          {
+            "label": "Cotton Blend",
+            "values": [
+              8.12,
+              6.04
+            ]
+          },
+          {
+            "label": "Green Cellulose",
+            "values": [
+              0.43,
+              0.19
+            ]
+          },
+          {
+            "label": "Lyocell",
+            "values": [
+              0.43,
+              0.19
+            ]
+          },
+          {
+            "label": "Nylon (Polyamide) Blend",
+            "values": [
+              1.65,
+              1.75
+            ]
+          },
+          {
+            "label": "Organic Cotton Blend",
+            "values": [
+              0.25,
+              16.78
+            ]
+          },
+          {
+            "label": "PTT",
+            "values": [
+              0.03,
+              0
+            ]
+          },
+          {
+            "label": "Polyester Blend",
+            "values": [
+              13.87,
+              11.6
+            ]
+          },
+          {
+            "label": "Polypropylene (PP) Blend",
+            "values": [
+              0,
+              0.02
+            ]
+          },
+          {
+            "label": "Recycled Cotton",
+            "values": [
+              0.01,
+              0.83
+            ]
+          },
+          {
+            "label": "Recycled Cotton Blend",
+            "values": [
+              0.01,
+              1.08
+            ]
+          },
+          {
+            "label": "Recycled Nylon",
+            "values": [
+              1.4,
+              0.45
+            ]
+          },
+          {
+            "label": "Recycled Nylon (Polyamide) Blend",
+            "values": [
+              2.04,
+              0.47
+            ]
+          },
+          {
+            "label": "Recycled Polyester",
+            "values": [
+              17.51,
+              11.03
+            ]
+          },
+          {
+            "label": "Recycled Polyester Blend",
+            "values": [
+              24.19,
+              13.16
+            ]
+          },
+          {
+            "label": "Silk Blend",
+            "values": [
+              0.03,
+              0
+            ]
+          },
+          {
+            "label": "Spandex 11~20%",
+            "values": [
+              3.53,
+              2.47
+            ]
+          },
+          {
+            "label": "Spandex <= 10%",
+            "values": [
+              4.79,
+              3.95
+            ]
+          },
+          {
+            "label": "Spandex >= 21%",
+            "values": [
+              1.62,
+              0.94
+            ]
+          },
+          {
+            "label": "Viscose",
+            "values": [
+              0.67,
+              1.37
+            ]
+          },
+          {
+            "label": "Wool Blend",
+            "values": [
+              0.19,
+              0.21
+            ]
+          }
+        ],
+        "xlabel": "百分比",
+        "ylabel": "品牌"
+      },
+      "llm_output": "根據2024年Nike和Adidas的多品牌機能百分比堆疊長條圖數據，我們可以提取出一些關鍵的趨勢和模式。\n\n首先，在材料組成上，Nike的產品顯示出其更高的對於100%棉（9.76%）和有機棉混合（16.78%）的使用，相比之下，Adidas在相同類別中的比例為4.96%和0.25%。這顯示Nike在推廣更可持續和天然材料方面的努力，這與當前市場對環保和可持續產品日益增長的需求相吻合。\n\n其次，Nike在100%聚酯（12.97%）和回收聚酯（11.03%）的使用上也顯示出較高的比例，這表明Nike正在積極採用回收材料以減少環境影響，這對於運動品牌的市場定位是極其重要的，尤其是在年輕消費者越來越重視品牌的環保責任時。\n\n再者，Nike在各種混合材料的使用上也表現出色，尤其是在回收聚酯混合（13.16%）方面，這進一步強化了其在可持續性方面的市場定位。\n\n總結來說，Nike在2024年的市場定位顯示出其對可持續發展的強烈承諾，尤其是在材料選擇上，這使其在面對越來越多關注環保的消費者時，具有競爭優勢。這種趨勢不僅符合全球對環保產品的需求，也能夠吸引更多對運動服裝有需求的年輕消費者，從而提升品牌的市場份額。"
+    }
+  ]
+}
